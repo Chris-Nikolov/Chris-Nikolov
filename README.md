@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris Nikolov!
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning Software Engineering with Pyhton in SoftUni.
+- 🌱 I’m currently learning Software Engineering with Python in SoftUni.
 - ⚡ Fun fact: I think football is the oldest MMORPG. Back then, they just used localhost.
 
 <!---
